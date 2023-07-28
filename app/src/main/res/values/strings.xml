@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">examen3_Gianfranco_Remaycuna</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingrese_correo">Ingrese correo</string>
+    <string name="ingrese_contrase_a">Ingrese contraseña</string>
+    <string name="personajes">Personajes</string>
+    <string name="informacion">Informacion</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="unete_al_lado_oscuro">Unete al lado oscuro</string>
+    <string name="mi_aplicaci_n_se_trata_de_mostrar_una_api_de_star_wars_una_saga_conocida_por_varias_generaciones_entre_ellas_hay_un_personaje_destacado_como_luke_skywalker_que_se_trata_de_un_guardian_que_lucha_por_la_paz_y_justicia_en_tiempos_oscuros">Mi aplicación se trata de mostrar una API de Star wars una saga conocida por varias generaciones Entre ellas hay un personaje destacado como Luke Skywalker que se trata de un guardian que lucha por la paz y justicia en tiempos oscuros</string>
+</resources>
